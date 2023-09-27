@@ -1,7 +1,7 @@
 # This guide covers the differences between the SIBOOR 0.2kit and the original VORON0.2 tutorial, and includes instructions on wiring and debugging.
 # The supplement also contains the differences section of Siboor V0.2. updated 2023/7/4
 # You can download and view the official PDF assembly tutorial of VORON here：[Voron-0.2/Manuals](https://github.com/VoronDesign/Voron-0/tree/Voron0.2/Manuals)  · GitHub
-***Github SIBOOR V0.1 kit assembly manual instruction.***
+***Github SIBOOR V0.2 kit assembly manual instruction.***
 
 * Page 13-15  ：In SIBOOR V0.2 kit, EXTRUSION A and EXTRUSION B are combined into one EXTRUSION, both of which have been tapped and are common to each other. C EXTRUSION and H EXTRUSION are combined into one EXTRUSION, both of which are drilled and tapped, which are common to each other.
 
