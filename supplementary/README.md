@@ -11,6 +11,8 @@
 
 * Page 20、24 和 113  ：As described above, two purple PCBs are used as guide rail fixing strips to fix the MGN7 guide rail.
 
+* Page 36-46：The SIBOOR V0.2 AUG version uses the Kirigami sheet-metal hot-bed holder, as detailed in the supplementary instructions.
+
 * Page 48  ： The SIBOOR V0.2 kit is already equipped with a soldered Endstop, plug and play.
 
 * Page154 ：Make sure that the bearing is flush with the shaft, otherwise it will cause friction between the metal shaft and the motor. Place the side of the bearing flat on the table and press the white gear with both thumbs to make the bearing flush with the shaft.
@@ -23,4 +25,10 @@
 
 * Page 184  ：SIBOOR V0.2 kit, using a two in one Gemini motherboard, using four nylon posts and M3 × 8 Screws are fixed on the acrylic panel.
 
+* Page 186 ：This requires the installation of a V0-umbilical, see supplementary instructions for details
+
 * Page 199- 205 ：See the SIBOOR V0.2 kit supplementary instructions separatel
+
+* Page 225 ：This requires the installation of a V0-umbilical, see supplementary instructions for details
+
+
