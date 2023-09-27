@@ -1,5 +1,5 @@
-##This list only for reference.  
-##Under special situations, parts will updated to same level and quality products.
+## This list only for reference.  
+## Under special situations, parts will updated to same level and quality products.
 
 | Category         | Description                                              | /                   | Qty |
 |------------------|----------------------------------------------------------|---------------------|-----|
