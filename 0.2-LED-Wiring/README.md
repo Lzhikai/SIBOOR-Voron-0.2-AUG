@@ -19,8 +19,8 @@ cd klipper-led_effect
 
 ### Add to printer.cfg  
 ```
-[output_pin LED]
-pin: !PB1
+[output_pin HE-LED]
+pin: host:gpio3
 pwm: False
 ```
 
