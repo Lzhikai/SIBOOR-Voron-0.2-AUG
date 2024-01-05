@@ -63,8 +63,8 @@
 | Motion           | GT2 Open Belt (6mm W) - 3000mm                           | Gates               | 3   |
 | Buildplate       | "6061 1/4"" Plate - 120x120mm"                           | Siboor              | 1   |
 | Buildplate       | Silicone DC 24V Heater 100x100mm 75W                     | Siboor              | 1   |
-| Buildplate       | Pro+ 3M 468MP (200MP)                                    | Siboor              | 1   |
-| Buildplate       | Kirigami                                                 |                     |     |
+| Buildplate       | 120*120 PRO print plate + 3M 468MP (200MP)               | Siboor              | 1   |
+| Buildplate       | Kirigami Hot bed support                                 |                     |     |
 | Panels           | PC panel Clear - 212x230x3mm                             | PC panel            | 2   |
 | Panels           | PC panel Clear - 212x239x3mm                             | PC panel            | 1   |
 | Panels           | Upper Rear Panel 212x63x3mm                              | PC panel            | 1   |
@@ -73,8 +73,7 @@
 | Panels           | Motor Panel 3mm thick (See DXF)                          | PC panel            | 1   |
 | Panels           | Bottom Panel 3mm thick (See DXF)                         | PC panel            | 1   |
 | Panels           | Mid Panel 3mm thick (See DXF)                            | PC panel            | 1   |
-| Misc.            | Bowden Tube 4x2mm - 1m                                   | /                   | 1   |
-| Misc.            | Bowden Tube 4x3mm - 1m                                   | /                   | 1   |
+| Misc.            | Bowden Tube 4x2mm - 1m                                   | /                   | 2   |
 | Misc.            | Screwdriver (M1.5/2/3)                                   | Siboor              | 3   |
 | Extrusion Tophat | Top Panel 212x212mm                                      | PC panel            | 1   |
 | Extrusion Tophat | Side Panels 212x71mm                                     | PC panel            | 4   |
