@@ -31,4 +31,27 @@
 
 * Page 225 ：This requires the installation of a V0-umbilical, see supplementary instructions for details
 
+<br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-0.2-AUG/blob/main/supplementary/20240105114943.png width="1020"/><br/>
 
+If you encounter an error reading the display screen MCU, it may be due to the lack of pre-flashed firmware on the display. To address this issue, follow these optimization steps:
+
+1. Open an SSH session and log in to the system.
+
+2. In the terminal, enter the following commands:
+   ```bash
+   cd ~/klipper/
+   make -j4 flash FLASH_DEVICE=0483:df11
+   ```
+
+3. After running the above command, the system may prompt you to enter a password. Enter the password: mellow.
+
+4. Wait for the firmware to be flashed.
+
+5. After the flashing is complete, restart the system with the following command:
+   ```bash
+   sudo reboot
+   ```
+
+6. Once the system restarts, the display screen should light up.
+
+By following these steps, you should be able to resolve the issue of being unable to read the display screen MCU and ensure that the display screen has the necessary pre-flashed firmware.
