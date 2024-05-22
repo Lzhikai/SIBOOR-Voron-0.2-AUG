@@ -30,19 +30,19 @@
 | In the tools box | Bondtech BMG Extruder Kit                                | /                   | 1   |
 | In the tools box | CNC POM 50-tooth gear                                    | Siboor              | 1   |
 | Frame            | EXTRUSION 15x15 200mm                                    | Siboor              | 16  |
-| Electronics      | LM200-20B24R2 200W Power                                 | Mornsun             | 1   |
+| Electronics      | A300FGK-24-300W                                          | CHUANGLIAN POWER SUPPLY             | 1   |
 | Electronics      | Gemini V3                                                | Mellow              | 1   |
 | Electronics      | MicroSD Card                                             | Sandisk             | 1   |
 | Electronics      | USB WIFI module                                          | /                   | 1   |
 | Electronics      | NEMA14 Stepper Motor 40Ncm                               | Siboor              | 2   |
 | Electronics      | NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | Siboor              | 1   |
-| Electronics      | Nema14 Motor 14RE08-1004S-H                              | stepperonline       | 1   |
+| Electronics      | Nema14 Motor 14RE08-1004S-H                              | Siboor              | 1   |
 | Electronics      | 3010 blower fans 24V                                     | Siboor              | 2   |
 | Electronics      | 3010 axial fan 24V                                       | Siboor              | 2   |
 | Electronics      | Micro Switch                                             | /                   | 1   |
 | Electronics      | C13 Power Cord                                           | /                   | 1   |
 | Electronics      | IEC320 C14 inlet                                         | /                   | 1   |
-| Electronics      | SIBOOR CHC V6 Hotend(24V 60W)                            | Siboor              |     |
+| Electronics      | TZ V6 V2.0 (24V 60W)                                     | Siboor              |     |
 | Electronics      | V0-Display                                               | Siboor              | 1   |
 | Electronics      | 3M 5952 VHB tape                                         | 3M                  | 1   |
 | Electronics      | High Flex Wire 20gauge                                   | /                   | 2   |
